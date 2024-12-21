@@ -20,16 +20,14 @@ public class Ascending {
         int[] arr = {10, 8, 2, 3, 1, 4};
 
         for (int i = 0; i < arr.length - 1; i++) {
-            int smallest = arr[i];
+            int smallest = i;
 
             for (int j = i + 1; j < arr.length; j++) {
-                if (arr[i] > arr[j]) {
-                    smallest = arr[j];
-                    swap(arr, i, j);
-                } else {
-                    smallest = arr[i];
+                if (arr[smallest] > arr[j]) {
+                    smallest = j;
                 }
             }
+            swap(arr, i, smallest);
         }
 
         System.out.println(Arrays.toString(arr));

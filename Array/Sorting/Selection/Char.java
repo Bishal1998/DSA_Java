@@ -16,16 +16,14 @@ public class Char {
         int n = arr.length;
 
         for (int i = 0; i < n - 1; i++) {
-            char smallest = arr[0];
+            int smallest = i;
 
             for (int j = i + 1; j < n; j++) {
-                if (arr[i] > arr[j]) {
-                    smallest = arr[j];
-                    swap(arr, i, j);
-                } else {
-                    smallest = arr[i];
+                if (arr[smallest] > arr[j]) {
+                    smallest = j;
                 }
             }
+            swap(arr, i, smallest);
         }
         System.out.println(Arrays.toString(arr));
     }

@@ -14,16 +14,14 @@ public class Descending {
         int n = arr.length;
 
         for (int i = 0; i < n - 1; i++) {
-            int largest = arr[i];
+            int largest = i;
 
             for (int j = i + 1; j < n; j++) {
-                if (arr[j] > arr[i]) {
-                    largest = arr[j];
-                    swap(arr, i, j);
-                } else {
-                    largest = arr[i];
+                if (arr[j] > arr[largest]) {
+                    largest = j;
                 }
             }
+            swap(arr, i, largest);
         }
         System.out.println(Arrays.toString(arr));
     }
