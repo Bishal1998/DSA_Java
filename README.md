@@ -6,6 +6,10 @@
 4. [MissingNumber](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Lecture17/MissingNumber.java)
 5. [Fibonacci Series](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Lecture17/FibonacciSeries.java)
 6. [Rotate Array by 1](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Lecture17/RotateArray.java)
-7. [Selection Sort ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Selection/Ascending.java)
-8. [Selection Sort descending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Selection/Descending.java)
-9. [Char ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Selection/Char.java)
+
+#### Sorting
+#### Selection
+
+1. [Selection Sort ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Selection/Ascending.java)
+2. [Selection Sort descending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Selection/Descending.java)
+3. [Char ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Selection/Char.java)
