@@ -20,7 +20,7 @@ public class Ascending {
         int[] arr = {10, 8, 2, 3, 1, 4};
 
         for (int i = 0; i < arr.length - 1; i++) {
-            int smallest = 0;
+            int smallest = arr[i];
 
             for (int j = i + 1; j < arr.length; j++) {
                 if (arr[i] > arr[j]) {
