@@ -13,3 +13,8 @@
 1. [Selection Sort ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Selection/Ascending.java)
 2. [Selection Sort descending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Selection/Descending.java)
 3. [Char ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Selection/Char.java)
+
+
+#### Bubble
+
+1. [Bubble Sort ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Bubble/Ascending.java)
