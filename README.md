@@ -18,3 +18,4 @@
 #### Bubble
 
 1. [Bubble Sort ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Bubble/Ascending.java)
+2. [Bubble Sort descending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Bubble/Descending.java)
