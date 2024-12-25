@@ -20,3 +20,7 @@
 1. [Bubble Sort ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Bubble/Ascending.java)
 2. [Bubble Sort descending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Bubble/Descending.java)
 3. [Bubble Sort decreasing](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Bubble/Decreasing.java)
+
+
+#### Insertion Sort
+1. [Bubble Sort Ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Insertion/Ascending.java)
