@@ -23,4 +23,5 @@
 
 
 #### Insertion Sort
-1. [Bubble Sort Ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Insertion/Ascending.java)
+1. [Insertion Sort Ascending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Insertion/Ascending.java)
+2. [Insertion Sort Descending](https://github.com/Bishal1998/DSA_Java/blob/main/Array/Sorting/Insertion/Descending.java)
