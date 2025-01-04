@@ -31,3 +31,4 @@
 #### Binary Search
 1. [Binary Search](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/BinarySearch.java)
 2. [First and Last Position](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/FirstLastIndex.java)
+3. [Find Element Index](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/FindElementIndex.java)
