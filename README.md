@@ -34,3 +34,4 @@
 3. [Find Element Index](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/FindElementIndex.java)
 4. [Peak Index](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/PeakIndex.java)
 5. [Smallest Element in Rotated Array](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/SmallestElementInRotatedArray.java)
+6. [Search Target Element Rotated Array](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/SearchTargetElement.java)
