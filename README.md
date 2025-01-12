@@ -35,3 +35,4 @@
 4. [Peak Index](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/PeakIndex.java)
 5. [Smallest Element in Rotated Array](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/SmallestElementInRotatedArray.java)
 6. [Search Target Element Rotated Array](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/SearchTargetElement.java)
+7. [Kth Missing Positive Integer](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/KthMissingPositiveInteger.java)
