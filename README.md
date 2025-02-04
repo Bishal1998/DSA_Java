@@ -36,3 +36,4 @@
 5. [Smallest Element in Rotated Array](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/SmallestElementInRotatedArray.java)
 6. [Search Target Element Rotated Array](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/SearchTargetElement.java)
 7. [Kth Missing Positive Integer](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/KthMissingPositiveInteger.java)
+8. [Book Allocation](https://github.com/Bishal1998/DSA_Java/blob/main/Array/BinarySearch/BookAllocation.java)
